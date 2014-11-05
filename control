@@ -1,10 +1,10 @@
-Package: ws.hbang.mapsopener
-Name: MapsOpener
+Package: ws.hbang.wazeopener
+Name: WazeOpener
 Pre-Depends: firmware (>= 5.1)
 Depends: mobilesubstrate, ws.hbang.libopener
 Version: 1.2.1
 Architecture: iphoneos-arm
-Description: Open Google Maps links in the new App Store app
-Maintainer: HASHBANG Productions <mapsopener@hbang.ws>
-Author: HASHBANG Productions <mapsopener@hbang.ws>
+Description: Open Waze Maps links in the new App Store app
+Maintainer: Joseph Elwell
+Author: Joseph Elwell
 Section: Tweaks
